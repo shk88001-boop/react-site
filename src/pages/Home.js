@@ -247,7 +247,7 @@ function Home() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-content">
-          <h1>Welcome to React Site</h1>
+          <h1>Welcome to Techstore</h1>
           <p>Discover amazing tech products at unbeatable prices</p>
           <a 
             href="https://visiopt.com/client/postback.php?pb_id=41&site_id=1090&c_page=803&visiuid=[#visiuid]&amt=50"
