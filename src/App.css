@@ -1,0 +1,19 @@
+.App {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+/* Footer Styles */
+footer {
+  background-color: #333;
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+  margin-top: 80px;
+}
+
+footer p {
+  margin: 0;
+  opacity: 0.8;
+}
+
